@@ -1,13 +1,13 @@
-![github-repository-share_demogorgon](https://github.com/user-attachments/assets/c91f9801-76f6-4134-a4ef-ad4f96e93ca8)
 
-## 👻 Caça aos Bugs 2025 - Desafio 06 - Demogorgon
+
+## 👻 Caça aos Bugs 2025 - Desafio 06 
 
 Oi, eu sou o [seu nome aqui] e este é o espaço onde compartilho minha jornada de aprendizado durante o desafio **Caça aos Bugs 2025**, realizado pelo [balta.io](https://balta.io). 👻
 
 Aqui você vai encontrar projetos, exercícios e códigos que estou desenvolvendo durante o desafio. O objetivo é colocar a mão na massa, testar ideias e registrar minha evolução no mundo da tecnologia.
 
 ### Sobre este desafio
-No desafio **Demogorgon** eu tive que implementar as funcionalidades extras de CRUD do projeto.
+No desafio **gorgon** eu tive que implementar as funcionalidades extras de CRUD do projeto.
 Neste processo eu aprendi:
 * ✅ CRUD
 * ✅ Entity Framework
